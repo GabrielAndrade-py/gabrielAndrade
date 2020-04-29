@@ -1,4 +1,4 @@
-#Alunos: Thiago da Silva e Gabriel Andrade
+#Programa em python feito por gabrielAndrade
 def main():
   x = int(input(""" 
 1 - soma dos números 
